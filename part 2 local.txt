@@ -1,0 +1,1 @@
+part 2 cloning of the python class.
